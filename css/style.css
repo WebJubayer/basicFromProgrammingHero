@@ -1,0 +1,15 @@
+/* Add all your styles here */
+body{
+  margin-left: 10px;
+}
+#app h3{
+  color: red;
+  font-weight: 700;
+  text-align: center;
+}
+ h1{
+
+  font-weight: 700;
+  color: Grey;
+  
+}
